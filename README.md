@@ -10,7 +10,7 @@ Inside the mapreduce folder, run the command "go test".
 
 # Testing for lab 2
 
-Inside the viewservice folder, run the command "go test".
+Inside the viewservice folder, run the command "go test".  
 Inside the pbservice folder, run the command "go test".
 
 # Testing for lab 3
