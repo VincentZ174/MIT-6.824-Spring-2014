@@ -1,6 +1,6 @@
 # MIT-6.824-Spring-2014  
 
-This was done for a senior capstone project for Hunter College, course CSCI 49900.
+This was done for a senior capstone project for Hunter College, course CSCI 49900. This project covers the implementation of MapReduce, concurrent programming, and handling worker failure.
 
 Completed only labs 1-3.
 
