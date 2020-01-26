@@ -4,6 +4,8 @@ This was done for a senior capstone project for Hunter College, course CSCI 4990
 
 Completed only labs 1-3.
 
+### ```http://css.csail.mit.edu/6.824/2014/```
+
 # Testing for lab 1  
 
 Inside the mapreduce folder, run the command "go test".
